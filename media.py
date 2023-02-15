@@ -1,5 +1,5 @@
 class Media:
-        arrayNotas = [patata]
+        arrayNotas = []
 
         def notas(self):
             return self.arrayNotas
